@@ -10,7 +10,7 @@ We have added a very 'smal' Coco sample imageset in the folder called smalcoco. 
 
 Full credit goes to [this](https://github.com/ultralytics/yolov3), and if you are looking for much more detailed explainiation and features, please refer to the original [source](https://github.com/ultralytics/yolov3).
 
-The credits for this goes to [TheSchoolOfAI](https://github.com/theschoolofai/YoloV3)
+The credits for this goes to [The School Of AI](https://github.com/theschoolofai/YoloV3)
 
 ## Checking whether YoloV3 trains properly in colab. 
 1. Create a folder called weights in the root (YoloV3) folder
@@ -107,5 +107,8 @@ As you can see in the collage image above, a lot is going on, and if you are cre
 After training for 300 Epochs, results look awesome!
 
 ![image](https://github.com/genigarus/YoloV3/blob/master/output/download.jpg)
+
+
+**Alex Detection Video**
 
 [![](https://img.youtube.com/vi/e1D-shteTAI/0.jpg)](https://www.youtube.com/watch?v=e1D-shteTAI)
