@@ -108,4 +108,4 @@ After training for 300 Epochs, results look awesome!
 
 ![image](https://github.com/genigarus/YoloV3/blob/master/output/download.jpeg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e1D-shteTAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/e1D-shteTAI/0.jpg)](https://www.youtube.com/watch?v=e1D-shteTAI)
